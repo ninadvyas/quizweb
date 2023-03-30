@@ -22,7 +22,7 @@
 			<div class="wrap-login100">
 				<div class="login100-form-title" style="background-image: url(login-ui/images/Hey.png);">
 					<span class="login100-form-title-1">
-						Sign In
+						Admin
 					</span>
 				</div>
 
